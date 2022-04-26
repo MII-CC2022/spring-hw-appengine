@@ -66,6 +66,7 @@ Vista: fichero index.html en src/main/resource/templates
 
 ```
 
+En AWS Cloud9 verás una URl similar a la siguiente con la que podrás acceder a la aplicación:
 
 https://d5fb5be6358943a8922adb524bb8819f.vfs.cloud9.us-east-1.amazonaws.com
 
@@ -79,7 +80,7 @@ https://d5fb5be6358943a8922adb524bb8819f.vfs.cloud9.us-east-1.amazonaws.com
 
 - Instala Google Cloud CLI. 
 
-https://cloud.google.com/sdk/docs/install
+En el siguiente enlace tienes la documentación más detallada: https://cloud.google.com/sdk/docs/install
 
 ```
 
@@ -101,7 +102,7 @@ gsutil 5.9
 - Inicializa para autorizar y establecer la configuración
 
 
-https://cloud.google.com/sdk/docs/initializing
+En el siguiente enlace tienes la documentación más detallada: https://cloud.google.com/sdk/docs/initializing
 
 ```
 $ gcloud init --console-only
