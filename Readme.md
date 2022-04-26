@@ -53,15 +53,22 @@ Vista: fichero index.html en src/main/resource/templates
 
 ```
 
+- Crea el paquete .jar del proyecto
 
-- Comprueba la aplicación de forma local
-
-https://d5fb5be6358943a8922adb524bb8819f.vfs.cloud9.us-east-1.amazonaws.com
-
-Crea el paquete .jar del proyecto
 ```
 ./mvnw clean package
 ```
+
+- Comprueba la aplicación de forma local
+ 
+```
+./mvnw spring-boot:run
+
+```
+
+
+https://d5fb5be6358943a8922adb524bb8819f.vfs.cloud9.us-east-1.amazonaws.com
+
 
 
 
