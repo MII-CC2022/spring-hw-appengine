@@ -9,7 +9,7 @@ Vamos a crear una aplicación Spring Boot usando Spring Initializr
 
 - Utiliza Spring Initializr
 
--- Maven, Java, versión 11. Group: edu.cc.paas   Artifac: holamundo   Jar
+    Maven, Java, versión 11. Group: edu.cc.paas   Artifac: holamundo   Jar
 -- Dependencias: Spring Web y Thymeleaf
 
 - Genera el proyecto y descomprime en tu IDE (AWS Cloud9)
