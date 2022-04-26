@@ -8,6 +8,7 @@ Doc: https://cloud.google.com/appengine/#section-4
 Vamos a crear una aplicación Spring Boot usando Spring Initializr
 
 - Utiliza Spring Initializr
+
 -- Maven, Java, versión 11. Group: edu.cc.paas   Artifac: holamundo   Jar
 -- Dependencias: Spring Web y Thymeleaf
 
@@ -53,6 +54,8 @@ Vista: fichero index.html en src/main/resource/templates
 
 ```
 
+## Construye el proyecto
+
 - Crea el paquete .jar del proyecto
 
 ```
@@ -84,7 +87,7 @@ En el siguiente enlace tienes la documentación más detallada: https://cloud.go
 
 ```
 
-$ curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-382.0.0-linux-x86_64.tar.gz77
+$ curl -O https://dl.google.com/dl/cloudsdk/channels/rapid/downloads/google-cloud-cli-382.0.0-linux-x86_64.tar.gz
 
 $ tar xzvf google-cloud-cli-382.0.0-linux-x86_64.tar.gz 
 
